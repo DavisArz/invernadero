@@ -32,5 +32,6 @@ el ph de la tierra, el flujo. temperatura y oxigeno en el agua.
 Basado en:
 -------------------------------------------
 https://www.instructables.com/id/Interface-Arduino-to-MySQL-using-Python/
+
 https://www.viralsciencecreativity.com/post/arduino-soil-moisture-sensor-relay-control
 
