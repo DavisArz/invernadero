@@ -25,3 +25,12 @@ Puedes crear un servicio que ejecute el archivo invernadero.py al inicio o bien 
 
 El fin de guardar los datos es para en la siguiente versión usar mineria de datos e inteligencia artificial para regular la luz artificial
 el ph de la tierra, el flujo. temperatura y oxigeno en el agua.
+
+
+
+
+Basado en:
+-------------------------------------------
+https://www.instructables.com/id/Interface-Arduino-to-MySQL-using-Python/
+https://www.viralsciencecreativity.com/post/arduino-soil-moisture-sensor-relay-control
+
